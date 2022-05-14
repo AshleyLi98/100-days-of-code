@@ -12,6 +12,12 @@
 
 **思考：** 掌握Keras的用法。
 
+### 第3天: 5月14日, 星期六
+
+**今天的进展：** 完成freeCodeCamp机器学习图片分类实验。
+
+
+
 **工作成果链接：**
 *示例*
 1. [找到一个String中最长的单词](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
