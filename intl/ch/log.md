@@ -22,6 +22,11 @@
 
 **思考：** tensorflow 1.0和2.0的区别；dataframe的基本功能；seaborn基础。
 
+### 第5天: 5月16日, 星期一
+
+**今天的进展：** 完成freeCodeCamp KNN实验。
+
+**思考：** DataFrame的高级用法；纯IMU定位解算。
 
 **工作成果链接：**
 *示例*
