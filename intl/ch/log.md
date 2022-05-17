@@ -28,7 +28,14 @@
 
 **思考：** DataFrame的高级用法；纯IMU定位解算。
 
+### 第6天: 5月17日, 星期二
+
+**今天的进展：** 练习pandas。
+
+**思考：** 如何克服三分钟热度——在有热情的那三分钟把事情解决掉！
+
 **工作成果链接：**
+1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 *示例*
 1. [找到一个String中最长的单词](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [把一个句子变成标题](https://www.freecodecamp.com/challenges/title-case-a-sentence)
