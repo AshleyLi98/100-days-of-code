@@ -34,6 +34,10 @@
 
 **思考：** 如何克服三分钟热度——在有热情的那三分钟把事情解决掉！
 
+### 第7天: 5月18日, 星期三
+
+**今天的进展：** 练习matplotlib。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 *示例*
