@@ -38,6 +38,10 @@
 
 **今天的进展：** 练习matplotlib。
 
+### 第8天: 5月19日, 星期四
+
+**今天的进展：** 数据分析。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 *示例*
