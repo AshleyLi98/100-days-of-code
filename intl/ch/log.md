@@ -42,6 +42,10 @@
 
 **今天的进展：** 数据分析。
 
+### 第9天: 5月20日, 星期五
+
+**今天的进展：** Python数据可视化。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 *示例*
