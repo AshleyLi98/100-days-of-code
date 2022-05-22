@@ -46,6 +46,14 @@
 
 **今天的进展：** Python数据可视化。
 
+### 第10天: 5月21日, 星期六
+
+**今天的进展：** LeetCode刷题回溯算法。
+
+### 第11天: 5月22日, 星期日
+
+**今天的进展：** Python数据可视化。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 *示例*
