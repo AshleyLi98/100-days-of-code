@@ -96,8 +96,13 @@
 
 **思考：** programmer和developer是不同的概念，以更全局的角度，感受到了“开发者”一词的含义。今早LeetCode刷题，某一道排名很靠前，写了一篇题解，真喜欢技术领域这样开放的环境啊。
 
+### 第20天: 5月31日, 星期二
+
+**今天的进展：** 《图解设计模式》练习题，完成了第五至第八章节的练习。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
+2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
 *示例*
 1. [找到一个String中最长的单词](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [把一个句子变成标题](https://www.freecodecamp.com/challenges/title-case-a-sentence)
