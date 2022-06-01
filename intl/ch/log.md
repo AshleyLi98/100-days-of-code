@@ -100,6 +100,10 @@
 
 **今天的进展：** 《图解设计模式》练习题，完成了第五至第八章节的练习。
 
+### 第21天: 6月1日, 星期三
+
+**今天的进展：** 《图解设计模式》练习题，完成了第九至第十二章节的练习。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
