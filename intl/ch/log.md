@@ -114,9 +114,20 @@
 
 **思考：** 其实每天都非常难过，努力做事就是因为不希望因为学习状态不满意而转嫁给感情不顺，可是这样一来失落和痛苦反而更纯粹更赤裸裸，学习是唯一能给我安慰的了。
 
+### 第24天: 6月4日, 星期六
+
+**今天的进展：** 《图解设计模式》练习题，全部完成。
+
+### 第25天: 6月5日, 星期日
+
+**今天的进展：**  LeetCode。
+
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
+
 *示例*
+
 1. [找到一个String中最长的单词](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [把一个句子变成标题](https://www.freecodecamp.com/challenges/title-case-a-sentence)
