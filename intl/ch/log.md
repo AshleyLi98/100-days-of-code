@@ -122,6 +122,9 @@
 
 **今天的进展：**  LeetCode。
 
+### 第26天: 6月6日, 星期一
+
+**今天的进展：**  LeetCode。
 
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
