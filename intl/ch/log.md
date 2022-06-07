@@ -126,6 +126,12 @@
 
 **今天的进展：**  LeetCode。
 
+### 第27天: 6月7日, 星期二
+
+**今天的进展：**  LeetCode。
+
+**思考：** 今天力扣刷了几道非常非常基础的题，很有收获。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
