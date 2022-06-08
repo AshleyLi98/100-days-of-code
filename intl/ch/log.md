@@ -132,6 +132,12 @@
 
 **思考：** 今天力扣刷了几道非常非常基础的题，很有收获。
 
+### 第28天: 6月8日, 星期三
+
+**今天的进展：**  LeetCode。
+
+**思考：** 今天完成了毕业论文的测试和摘要部分，剩下就只有致谢和引用啦！一身轻松。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
