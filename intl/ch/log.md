@@ -138,6 +138,12 @@
 
 **思考：** 今天完成了毕业论文的测试和摘要部分，剩下就只有致谢和引用啦！一身轻松。
 
+### 第29天: 6月9日, 星期四
+
+**今天的进展：**  LeetCode。
+
+**思考：** 完整完成毕业论文，晚上想起应该加上每章节的小结部分，明天补上，改好中期报告。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
