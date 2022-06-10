@@ -144,6 +144,10 @@
 
 **思考：** 完整完成毕业论文，晚上想起应该加上每章节的小结部分，明天补上，改好中期报告。
 
+### 第30天: 6月10日, 星期五
+
+**今天的进展：**  LeetCode。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
