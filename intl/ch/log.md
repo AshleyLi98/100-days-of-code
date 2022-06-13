@@ -148,6 +148,18 @@
 
 **今天的进展：**  LeetCode。
 
+### 第31天: 6月11日, 星期六
+
+**今天的进展：**  LeetCode。
+
+### 第32天: 6月12日, 星期日
+
+**今天的进展：**  LeetCode。
+
+### 第33天: 6月13日, 星期一
+
+**今天的进展：**  LeetCode。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
