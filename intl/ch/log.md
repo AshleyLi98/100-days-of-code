@@ -164,6 +164,16 @@
 
 **今天的进展：**  LeetCode。
 
+### 第35天: 6月15日, 星期三
+
+**今天的进展：**  LeetCode。
+
+### 第36天: 6月16日, 星期四
+
+**今天的进展：**  LeetCode。
+
+**思考：** 红黑树有序。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
