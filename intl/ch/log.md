@@ -174,6 +174,12 @@
 
 **思考：** 红黑树有序。
 
+### 第37天: 6月17日, 星期五
+
+**今天的进展：**  LeetCode。
+
+**思考：** 收到中金offer。
+
 **工作成果链接：**
 1. [Pandas Exercises](https://github.com/AshleyLi98/pandas_exercises)
 2. [《图解设计模式》练习题](https://github.com/AshleyLi98/Design_Patterns)
